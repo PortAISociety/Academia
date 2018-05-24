@@ -11,9 +11,12 @@ Brief introduction
 ![alt text](#)
 
 ## Machine learning
-Description text
+Machine learning is a subfield of Artificial Intelligence. In the recent years Machine Learning has been successful for the increase availability of computational processing power, data and enhancement of advanced algorithms.
 
-### Category1
+For more information about Machine Learning:
+(VIDEO - MIT Source) https://youtu.be/s3MuSOl1Rog
+
+### Deep Learning
 Brief introduction
 
 
