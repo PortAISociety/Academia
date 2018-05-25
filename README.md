@@ -1,5 +1,5 @@
 # Academia
-In this repository you will find a good amount of free resources to learn about artificial intelligence, machine learning and other related areas. Some of these resources includes videos and free courses from trusted sources.
+In this repository you will find a good amount of free resources to learn about artificial intelligence, machine learning and other related areas. Starting from basic definitions about AI to more advanced concepts. Some of these resources includes videos and free courses from trusted sources.
 
 Feel free to add any relevant resource.
 
@@ -22,6 +22,12 @@ Explore some of the concepts that Computer Scientist are currently working on su
 - AI Self Improvement: https://youtu.be/5qfIgCiYlfY
 - General AI Won't Want You To Fix its Code: https://youtu.be/4l7Is6vOAOA
 - Concrete Problems in AI Safety : https://youtu.be/AjyM-f8rDpg
+
+
+### Artificial Super Intelligence (ASI) 
+A hypothetical agent that possesses intelligence far surpassing that of the brightest and most gifted human minds.
+
+- What happens when our computers get smarter than we are? https://youtu.be/MnT1xgZgkpk
 
 ## Machine learning
 Machine learning is a subfield of Artificial Intelligence. In the recent years Machine Learning has been successful for the increase availability of computational processing power, data and enhancement of advanced algorithms.
