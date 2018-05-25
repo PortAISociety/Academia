@@ -5,29 +5,29 @@ Feel free to add any relevant resource.
 
 
 ## Artificial Intelligence
-Description text
+
+Artificial intelligence (AI) is intelligence demonstrated by machines, in contrast to the natural intelligence (NI) displayed by humans and other animals. In computer science AI research is defined as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.
 
 
 ### Artificial General Intelligence (AGI)
-Brief introduction
+Artificial general intelligence (AGI) is the representation of generalized human cognitive abilities in software so that, faced with an unfamiliar task, the AI system could find a solution. An AGI system could perform any task that a human is capable of.
 
-![alt text](#)
+Learn more about AGI (SERIES OF VIDEOS) https://agi.mit.edu/
 
 ## Machine learning
 Machine learning is a subfield of Artificial Intelligence. In the recent years Machine Learning has been successful for the increase availability of computational processing power, data and enhancement of advanced algorithms.
 
-For more information about Machine Learning:
-(VIDEO) https://youtu.be/s3MuSOl1Rog
+Introductory video about Machine Learning (VIDEO) https://youtu.be/s3MuSOl1Rog
 
 
 ### Deep Learning
 Deep learning consists of multiple hidden layers in an artificial neural network. This approach tries to model the way the human brain processes light and sound into vision and hearing. Some successful applications of deep learning are computer vision and speech recognition.
 
-For more information about Deep Learning:
-(VIDEO) https://youtu.be/-6INDaLcuJY?t=14m20s
+Introductory video about Deep Learning (VIDEO) https://youtu.be/-6INDaLcuJY?t=14m20s
 
-Here is what is considered to be the "bible" of Deep Learning:
-(BOOK) http://www.deeplearningbook.org/
+Deep into Deep Learning (SERIES OF VIDEOS): http://introtodeeplearning.com/
+
+Reference book for Deep Learning, includes the mathematics behind Deep Learning: (BOOK) http://www.deeplearningbook.org/
 
 
 
