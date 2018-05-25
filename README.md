@@ -18,35 +18,35 @@ Learn more about AGI (SERIES OF VIDEOS) https://agi.mit.edu/
 #### AGI Dystopia
 Explore some of the concepts that Computer Scientist are currently working on such as building safe Artificial General Intelligence
 
-AI Safety: https://youtu.be/IB1OvoCNnWY
-AI Self Improvement: https://youtu.be/5qfIgCiYlfY
-General AI Won't Want You To Fix its Code: https://youtu.be/4l7Is6vOAOA
-Concrete Problems in AI Safety : https://youtu.be/AjyM-f8rDpg
+- AI Safety: https://youtu.be/IB1OvoCNnWY
+- AI Self Improvement: https://youtu.be/5qfIgCiYlfY
+- General AI Won't Want You To Fix its Code: https://youtu.be/4l7Is6vOAOA
+- Concrete Problems in AI Safety : https://youtu.be/AjyM-f8rDpg
 
 ## Machine learning
 Machine learning is a subfield of Artificial Intelligence. In the recent years Machine Learning has been successful for the increase availability of computational processing power, data and enhancement of advanced algorithms.
 
-Introductory video about Machine Learning (VIDEO) https://youtu.be/s3MuSOl1Rog
+- Introductory video about Machine Learning (VIDEO) https://youtu.be/s3MuSOl1Rog
 
-Recommended course to start learning about Machine Learning:
+- Recommended course to start learning about Machine Learning:
 https://github.com/PortAISociety/Learn_Machine_Learning_in_3_Months
 
-Other courses:
+- Other courses:
 https://software.intel.com/en-us/ai-academy/students/kits/machine-learning-501
 
 ### Deep Learning
 Deep learning consists of multiple hidden layers in an artificial neural network. This approach tries to model the way the human brain processes light and sound into vision and hearing. Some successful applications of deep learning are computer vision and speech recognition.
 
-Introductory video about Deep Learning (VIDEO) https://youtu.be/-6INDaLcuJY?t=14m20s
+- Introductory video about Deep Learning (VIDEO) https://youtu.be/-6INDaLcuJY?t=14m20s
 
-Deep into Deep Learning (SERIES OF VIDEOS): http://introtodeeplearning.com/
+- Deep into Deep Learning (SERIES OF VIDEOS): http://introtodeeplearning.com/
 
-Reference book for Deep Learning, includes the mathematics behind Deep Learning: (BOOK) http://www.deeplearningbook.org/
+- Reference book for Deep Learning, includes the mathematics behind Deep Learning: (BOOK) http://www.deeplearningbook.org/
 
-Recommended courses to start:
+- Recommended courses to start:
 http://course.fast.ai
 
-Other courses:
+- Other courses:
 https://software.intel.com/en-us/ai-academy/students/kits/deep-learning-501
 
 
