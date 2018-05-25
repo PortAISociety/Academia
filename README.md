@@ -14,6 +14,15 @@ Artificial general intelligence (AGI) is the representation of generalized human
 
 Learn more about AGI (SERIES OF VIDEOS) https://agi.mit.edu/
 
+
+#### AGI Dystopia
+Explore some of the concepts that Computer Scientist are currently working on such as building safe Artificial General Intelligence
+
+AI Safety: https://youtu.be/IB1OvoCNnWY
+AI Self Improvement: https://youtu.be/5qfIgCiYlfY
+General AI Won't Want You To Fix its Code: https://youtu.be/4l7Is6vOAOA
+Concrete Problems in AI Safety : https://youtu.be/AjyM-f8rDpg
+
 ## Machine learning
 Machine learning is a subfield of Artificial Intelligence. In the recent years Machine Learning has been successful for the increase availability of computational processing power, data and enhancement of advanced algorithms.
 
