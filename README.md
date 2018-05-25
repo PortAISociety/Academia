@@ -19,6 +19,11 @@ Machine learning is a subfield of Artificial Intelligence. In the recent years M
 
 Introductory video about Machine Learning (VIDEO) https://youtu.be/s3MuSOl1Rog
 
+Recommended course to start learning about Machine Learning:
+https://github.com/PortAISociety/Learn_Machine_Learning_in_3_Months
+
+Other courses:
+https://software.intel.com/en-us/ai-academy/students/kits/machine-learning-501
 
 ### Deep Learning
 Deep learning consists of multiple hidden layers in an artificial neural network. This approach tries to model the way the human brain processes light and sound into vision and hearing. Some successful applications of deep learning are computer vision and speech recognition.
@@ -29,6 +34,11 @@ Deep into Deep Learning (SERIES OF VIDEOS): http://introtodeeplearning.com/
 
 Reference book for Deep Learning, includes the mathematics behind Deep Learning: (BOOK) http://www.deeplearningbook.org/
 
+Recommended courses to start:
+http://course.fast.ai
+
+Other courses:
+https://software.intel.com/en-us/ai-academy/students/kits/deep-learning-501
 
 
 ## Other areas
