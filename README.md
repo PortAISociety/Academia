@@ -50,10 +50,10 @@ Deep learning consists of multiple hidden layers in an artificial neural network
 - Reference book for Deep Learning, includes the mathematics behind Deep Learning: (BOOK) http://www.deeplearningbook.org/
 
 - Recommended courses to start:
-http://course.fast.ai
+https://github.com/PortAISociety/Learn_Machine_Learning_in_3_Months
 
 - Other courses:
-https://software.intel.com/en-us/ai-academy/students/kits/deep-learning-501
+http://course.fast.ai , https://software.intel.com/en-us/ai-academy/students/kits/deep-learning-501
 
 
 ## Other areas
