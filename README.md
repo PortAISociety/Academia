@@ -60,9 +60,9 @@ Deep learning consists of multiple hidden layers in an artificial neural network
 
 - Other courses: http://course.fast.ai , https://software.intel.com/en-us/ai-academy/students/kits/deep-learning-501
 
+#### Computer Vision
+#### Natural Lenguage Processing
 
 ## Other areas
-### Computer Vision
-### Natural Lenguage Processing
 ### Data Science
 ### Robotics
