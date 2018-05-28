@@ -40,6 +40,8 @@ Machine learning is a subfield of Artificial Intelligence. In the recent years M
 
 - Introductory video about Machine Learning: https://youtu.be/s3MuSOl1Rog
 
+- Neural Networks Demystified: https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&nohtml5=False
+
 - Recommended course to start learning about Machine Learning:
 https://github.com/PortAISociety/Learn_Machine_Learning_in_3_Months
 
