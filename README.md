@@ -8,17 +8,17 @@ Feel free to add any relevant resource.
 
 Artificial intelligence (AI) is intelligence demonstrated by machines, in contrast to the natural intelligence (NI) displayed by humans and other animals. In computer science AI research is defined as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.
 
-Learn more about AI: https://www.elementsofai.com/
+- Learn more about AI: https://www.elementsofai.com/
 
-Other courses: https://eu.udacity.com/course/intro-to-artificial-intelligence--cs271
+- Other courses: https://eu.udacity.com/course/intro-to-artificial-intelligence--cs271
 
-(Advanced) Intro to AI http://ai.berkeley.edu/lecture_videos.html
+- (Advanced) Intro to AI http://ai.berkeley.edu/lecture_videos.html
 
 
 ### Artificial General Intelligence (AGI)
 Artificial general intelligence (AGI) is the representation of generalized human cognitive abilities in software so that, faced with an unfamiliar task, the AI system could find a solution. An AGI system could perform any task that a human is capable of.
 
-Learn more about AGI (SERIES OF VIDEOS) https://agi.mit.edu/
+- Learn more about AGI (SERIES OF VIDEOS) https://agi.mit.edu/
 
 
 #### AGI Dystopia
@@ -65,7 +65,7 @@ Deep learning consists of multiple hidden layers in an artificial neural network
 If you want to explore how AI is being applied you can find here a list of different projects/videos/courses
 
 ### Self-driving cars
-Billions of dollars are invested in developing Self-driving cars
+Billions of dollars are invested in developing Self-driving cars. 
 
 ### Quantitative Finance
 Description text
