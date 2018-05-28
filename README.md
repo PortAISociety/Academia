@@ -64,4 +64,5 @@ Deep learning consists of multiple hidden layers in an artificial neural network
 ## Other areas
 ### Computer Vision
 ### Natural Lenguage Processing
+### Data Science
 ### Robotics
