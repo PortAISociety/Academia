@@ -43,17 +43,20 @@ https://software.intel.com/en-us/ai-academy/students/kits/machine-learning-501
 ### Deep Learning
 Deep learning consists of multiple hidden layers in an artificial neural network. This approach tries to model the way the human brain processes light and sound into vision and hearing. Some successful applications of deep learning are computer vision and speech recognition.
 
-- Introductory video about Deep Learning (VIDEO) https://youtu.be/-6INDaLcuJY?t=14m20s
+- Introductory video about Deep Learning
+--https://youtu.be/-6INDaLcuJY?t=14m20s
 
-- Deep into Deep Learning (SERIES OF VIDEOS): http://introtodeeplearning.com/
+- Deep into Deep Learning:
+--http://introtodeeplearning.com/
 
 - Reference book for Deep Learning, includes the mathematics behind Deep Learning: (BOOK) http://www.deeplearningbook.org/
 
 - Recommended courses to start:
-https://github.com/PortAISociety/Learn_Machine_Learning_in_3_Months
+--https://eu.udacity.com/course/deep-learning--ud730
 
 - Other courses:
-http://course.fast.ai , https://software.intel.com/en-us/ai-academy/students/kits/deep-learning-501
+--http://course.fast.ai 
+--https://software.intel.com/en-us/ai-academy/students/kits/deep-learning-501
 
 
 ## Other areas
