@@ -62,10 +62,6 @@ Deep learning consists of multiple hidden layers in an artificial neural network
 
 
 ## Other areas
-If you want to explore how AI is being applied you can find here a list of different projects/videos/courses
-
-### Self-driving cars
-Billions of dollars are invested in developing Self-driving cars. 
-
-### Quantitative Finance
-Description text
+### Computer Vision
+### Natural Lenguage Processing
+### Robotics
