@@ -60,9 +60,9 @@ Deep learning consists of multiple hidden layers in an artificial neural network
 
 - Reference book for Deep Learning, includes the mathematics behind Deep Learning: http://www.deeplearningbook.org/
 
-- Recommended courses to start: https://eu.udacity.com/course/deep-learning--ud730
+- Recommended courses to start: https://github.com/PortAISociety/Learn_Deep_Learning_in_6_Weeks
 
-- Other courses: http://course.fast.ai , https://software.intel.com/en-us/ai-academy/students/kits/deep-learning-501
+- Other courses: https://eu.udacity.com/course/deep-learning--ud730 , http://course.fast.ai , https://software.intel.com/en-us/ai-academy/students/kits/deep-learning-501
 
 #### Computer Vision
 #### Natural Lenguage Processing
