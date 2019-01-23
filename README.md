@@ -64,9 +64,9 @@ Deep learning consists of multiple hidden layers in an artificial neural network
 
 - Other courses: https://eu.udacity.com/course/deep-learning--ud730 , http://course.fast.ai , https://software.intel.com/en-us/ai-academy/students/kits/deep-learning-501
 
-#### Computer Vision
-#### Natural Lenguage Processing
+#### Reinforcement Learning
+Reinforcement learning (RL) is an area of machine learning concerned with how software agents ought to take actions in an environment so as to maximize some notion of cumulative reward.
 
-## Other areas
-### Data Science
-### Robotics
+- Deepmind video lecture on Advanced Deep Learning and Reinforcement Learning: https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
+- OpenAI introduction to Reinforcement Learning looking at the algorithms: https://spinningup.openai.com/en/latest/
+- Extensive portfolio of free resources to learn Reinforcement Learning, from basics to advanced concepts: https://gameplaying.ai/
